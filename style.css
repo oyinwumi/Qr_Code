@@ -33,7 +33,7 @@
 .text-section {
     padding: 15px; 
     text-align: center;
-    
+    width: 100%;
 
 
 }
@@ -41,8 +41,9 @@
 h1 {
     font-family: 'Outfit', Courier;
     font-weight: 700;
-    font-size: 23px;
+    font-size: 25px;
     color: hsl(218, 44%, 22%);
+    
 }
 p {
     font-family: 'Outfit', Courier;
