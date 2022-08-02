@@ -41,7 +41,7 @@
 h1 {
     font-family: 'Outfit', Courier;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 23px;
     color: hsl(218, 44%, 22%);
 }
 p {
@@ -51,6 +51,10 @@ p {
     color: hsl(212, 45%, 89%);
     margin-top: 10px;
 }
-a {
-    text-decoration: none;
-}
+.attribution { 
+    font-size: 11px;
+     text-align: center; }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     text-decoration: none;
+     }
